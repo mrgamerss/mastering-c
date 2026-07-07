@@ -1,0 +1,1 @@
+gcc -Wall -save-temps filename.c –o filename = Ask an AI model that will explain it.
